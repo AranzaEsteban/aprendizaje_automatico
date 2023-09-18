@@ -14,4 +14,4 @@ Dentro de este repositorio, encontrarás recursos, tareas, proyectos y análisis
 
 ## Indice
 
-* [Tarea 1](https://github.com/AranzaEsteban/aprendizaje_automatico/blob/main/Tarea1.inpyb) Hacer correalción/regresián lineal, definir BD, objetivos a aprender en el curso y para el análisis de la BD
+* [Tarea 1](https://github.com/AranzaEsteban/aprendizaje_automatico/blob/main/Tarea1.ipynb) Hacer correalción/regresián lineal, definir BD, objetivos a aprender en el curso y para el análisis de la BD
